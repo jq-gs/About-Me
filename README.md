@@ -1,4 +1,4 @@
-- Hi! I’m J. Quam, or thequamster
+- Hi! I’m J. Quam!
 - I'm a beginner to programming as a whole, and I'm currently learning how to use Python
 - I'm interested in programming and mechanical and aerospace engineering.
 - I created my own [website](https://www.greenspaceaero.com/) using Google Sites, about a future company I have envisioned, and my Kerbal Space Program projects
